@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🌸 Hey there, I'm so glad you're here!
 
-<!--
-**the-tanisha-yadav/the-tanisha-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub!
 
-Here are some ideas to get you started:
+I'm passionate about learning Data Analytics, building interactive dashboards, and improving my skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you'll find:
+
+- 🚀 Projects I'm building
+- 📊 Power BI Dashboards
+- 💻 SQL & Excel Practice
+- 🌱 My learning journey
+
+Whether you're here to explore my work or connect with me, thank you for stopping by!
+
+Let's connect, learn, and grow together—one project at a time. 💙
+
