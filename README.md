@@ -15,3 +15,9 @@ Whether you're here to explore my work or connect with me, thank you for stoppin
 
 Let's connect, learn, and grow together—one project at a time. 💙
 
+## 🌐 Socials
+
+💼 LinkedIn: www.linkedin.com/in/tanisha-yadav-471393409
+📧 Email: im.tanishayadav01@gmail.com
+
+
