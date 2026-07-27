@@ -18,6 +18,6 @@ Let's connect, learn, and grow together—one project at a time. 💙
 ## 🌐 Socials
 
 💼 LinkedIn: www.linkedin.com/in/tanisha-yadav-471393409
-📧 Email: im.tanishayadav01@gmail.com
+
 
 
